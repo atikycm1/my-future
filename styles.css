@@ -55,8 +55,8 @@ p{
 .girl-section{
   display: flex;
   justify-content: space-between;
-  margin: 150px 300px;
-  margin-top:
+  margin: 150px 300px 0px;
+
 
 }
 .girl-title{
@@ -92,4 +92,30 @@ padding-left: 0px;
 }
 .unorder-list li{
   margin-top:12px;
+}
+/* icon section styles */
+.plan{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 50px;
+}
+.all-icon-container{
+  display: flex;
+  justify-content: center;
+  gap:200px
+}
+.all-icon{
+  text-align: center;
+}
+.all-title{
+  font-size:30px;
+  color:rgb(27, 27, 27);
+  font-family:'Ubuntu', sans-serif; 
+  margin-bottom: 20px;
+}
+.all-discription{
+  font-size: 25px;
+
+  color:rgb(138, 138, 138);
 }
