@@ -199,6 +199,7 @@ p {
 .future-title {
   font-size: 45px;
   font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 20px;
 }
 
 .future-discription {
@@ -240,5 +241,6 @@ p {
 .icons {
   margin-top: 30px;
   display: flex;
-  gap: 14px
+  gap: 16px;
+  width: 155px;
 }
